@@ -1,1 +1,1 @@
-Delphi programlama dili kullanarak olusturdugum sinema otomasyonu projesidir.
+Delphi programlama dili kullanarak olusturdugum basit düzey sinema otomasyonu projesidir.
